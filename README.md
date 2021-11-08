@@ -3,4 +3,5 @@
 | ------------- | ------------- |
 
 #### Support me if you want to:
-BTC - bc1qegz3ys74ak27zlggm3zvvvv40zhe50fw9cywxl
+<b>BTC</b> - bc1qegz3ys74ak27zlggm3zvvvv40zhe50fw9cywxl<br>
+<b>BCH</b> - qp9kcfj2fkyw3er5qy294rtkt8p0v96crvflq3vygn
