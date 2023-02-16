@@ -2,9 +2,7 @@
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=sneakyevil&show_icons=true&theme=github_dark&custom_title=Stats"/> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sneakyevil&show_icons=true&layout=compact&theme=github_dark"/> |
 | ------------- | ------------- |
 
-#### Support me if you want to:
-[![PayPalDonate](https://img.shields.io/badge/Donate-PayPal-red.svg)](https://www.paypal.com/donate/?hosted_button_id=F86FFE644E55E)
-
+#### Support me:
 | Asset | Address |
 | ------------- | ------------- |
 | ![](https://raw.githubusercontent.com/ErikThiart/cryptocurrency-icons/master/16/bitcoin.png) <b>BTC</b> | 1DDaSwnWbpRVK7hkv96iyDyNfxa4JcWr6s 
