@@ -375,7 +375,7 @@ QTreeView::branch:selected
 QToolTip,
 QTipLabel
 {
-    border: 1px solid #077;
+    border: 1px solid #f3134d;
     border-radius: 2px;
     background: #111111;
     color: #ddd;
